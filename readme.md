@@ -3,4 +3,7 @@ curl https://raw.githubusercontent.com/epaii/ssh-auto/master/wenshissh.sh >>wsss
 
 chmod +x ./wsssh.sh
 
+
+#./wsssh.sh start stop restart 
+
 ```
